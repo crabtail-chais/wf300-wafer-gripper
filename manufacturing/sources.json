@@ -1,0 +1,100 @@
+[
+  {
+    "id": "S01",
+    "name": "Ensinger TECAPEEK SX natural",
+    "url": "https://www.ensingerplastics.com/en/shapes/peek-tecapeek-sx-natural",
+    "use": "半导体级未填充 PEEK 原料身份；不证明本治具工艺合格",
+    "access_date": "2026-09-13"
+  },
+  {
+    "id": "S02",
+    "name": "igus JSM-1012-20",
+    "url": "https://www.igus.eu/iglidur-ibh/sleeve-bearings/product-details/iglidur-j-m?artnr=JSM-1012-20",
+    "use": "10×12×20 衬套、压入后孔径、壳孔和轴公差；官网公开页面读取",
+    "local_capture": "work/igus_jsm_p1.html",
+    "access_date": "2026-09-13",
+    "capture_sha256": "323c5157cd756331d946c5da7f45810aa3ea7e1816b0da8243033edd10d97cc9"
+  },
+  {
+    "id": "S03",
+    "name": "igus J 材料技术数据",
+    "url": "https://www.igus.com/info/material-iglidur-j?C=ES&L=es",
+    "use": "Ra 0.1-0.3 μm、对钢动摩擦系数0.06-0.18；不是本治具静摩擦保证值",
+    "access_date": "2026-09-13"
+  },
+  {
+    "id": "S04",
+    "name": "Lee Spring LP 024K 05 S316",
+    "url": "https://www.leespring.com/product/compression-spring-lp024k05s316-stainless-steel-type-316",
+    "use": "首选弹簧准确料号、材料、尺寸、公差；官网直接读取",
+    "local_capture": "work/lee_lp024k05_p1.html",
+    "access_date": "2026-09-13",
+    "capture_sha256": "29a2488f53f6021b40c6138e75ec08d1ce96a2ea577b83cd45a688f72bfb37a8"
+  },
+  {
+    "id": "S05",
+    "name": "Lee Spring LP 024K 04 S316",
+    "url": "https://www.leespring.com/product/compression-spring-lp024k04s316-stainless-steel-type-316",
+    "use": "较短候选弹簧对比，最终不选",
+    "local_capture": "work/lee_lp024k04_p1.html",
+    "access_date": "2026-09-13",
+    "capture_sha256": "b160435b2ff713c538ac79fffcc85898441146c4457a38ff0d76a1d6415cabcc"
+  },
+  {
+    "id": "S06",
+    "name": "Lee Spring official catalog",
+    "url": "https://www.leespring.com/sites/default/files/2019-07/Lee_Spring_Catalog_US_Eng.pdf",
+    "use": "历史目录纸页47/PDF第49页交叉核对，不作为当期库存或交期证明",
+    "local_capture": "work/lee_catalog_p1.pdf",
+    "access_date": "2026-09-13",
+    "capture_sha256": "95feb0c903b972e41f52186375e7e34d3602eb307d5489a8e1ff48f7bf8699ce"
+  },
+  {
+    "id": "S07",
+    "name": "Bossard BN 612",
+    "url": "https://www.bossard.com/at-de/eshop/schrauben-mit-innenantrieb/zylinderschrauben-mit-innensechskant-ohne-schaft/p/612/",
+    "use": "ISO4762全牙A4系列；具体SKU及A4-70证书需订单确认，非316L承诺",
+    "access_date": "2026-09-13"
+  },
+  {
+    "id": "S08",
+    "name": "Outokumpu Supra 316L/4404",
+    "url": "https://www.outokumpu.com/en/products/product-ranges/supra/supra-316l-4404",
+    "use": "316L/S31603/1.4404身份识别，不证明棒料已购或加工商已批准",
+    "access_date": "2026-09-13"
+  },
+  {
+    "id": "S09",
+    "name": "ESDA Principles of ESD Control",
+    "url": "https://www.esda.org/esd-overview/esd-fundamentals/part-2-principles-of-esd-control/",
+    "use": "导体等电位与绝缘体离子化的区别；本文±10V为工程目标，非该标准限值",
+    "access_date": "2026-09-13"
+  },
+  {
+    "id": "S10",
+    "name": "ISO 14644-14:2026 public scope",
+    "url": "https://www.iso.org/standard/91615.html",
+    "use": "设备空气粒子适用性评价；不替代晶圆颗粒、ESD、材料或清洗资格",
+    "access_date": "2026-09-13"
+  },
+  {
+    "id": "S11",
+    "name": "FreeCAD Fasteners Workbench",
+    "url": "https://github.com/shaise/FreeCAD_FastenersWB",
+    "use": "现有16颗ISO4762 CAD几何来源；commit 79a06dc067b57ebc89532be835704eb2af5da96c，非实物供应商",
+    "access_date": "2026-09-13"
+  },
+  {
+    "id": "S12",
+    "name": "Lee Spring spring diameter expansion note",
+    "url": "https://www.leespring.com/sites/default/files/pdf/Lee%20Spring%20-%20WhitePaper%20-%20Spring%20Design%20General%20Consideration_US.pdf",
+    "use": "压缩会改变弹簧外径，需叠加自由态外径公差；不可只验名义包络",
+    "access_date": "2026-09-13"
+  },
+  {
+    "id": "S13",
+    "name": "TE SOLISTRAND 1773464-2 QRG",
+    "url": "https://www.te.com/content/dam/te-com/documents/industrial-automation-and-control/global/1773464-2_QRG_SOLISTRAND_08-2013.pdf",
+    "use": "31090目录尺寸、材料和接线范围；非洁净室认证"
+  }
+]

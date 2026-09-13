@@ -1,0 +1,308 @@
+{
+  "design_revision": "P1D1",
+  "publication_date": "2026-09-13",
+  "scope": "Public-core packaging: design, drawings, BOM, assembly and portable integrity checker only. Detailed historical test reports excluded. Geometry and manufacturing requirements unchanged.",
+  "files": [
+    {
+      "path": "cad/WF300-DH_P1D1_closed.FCStd",
+      "baseline_path": "cad/WF300-DH_P1D1_closed.FCStd",
+      "baseline_sha256": "11d3f112668962898e65137bf57b7d0899ca1fd1fa94e9139c2dc14f936bb964",
+      "sha256": "11d3f112668962898e65137bf57b7d0899ca1fd1fa94e9139c2dc14f936bb964",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "cad/WF300-DH_P1D1_closed.step",
+      "baseline_path": "cad/WF300-DH_P1D1_closed.step",
+      "baseline_sha256": "60b3c2578cec28a3a011d84ae3b123c8418cc499517e3a5a29e55900280d067d",
+      "sha256": "60b3c2578cec28a3a011d84ae3b123c8418cc499517e3a5a29e55900280d067d",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "cad/WF300-DH_P1D1_open.FCStd",
+      "baseline_path": "cad/WF300-DH_P1D1_open.FCStd",
+      "baseline_sha256": "6f398ca172ae09db538f19d762a696bd56e1c352bae554b08609d021b83df0e6",
+      "sha256": "6f398ca172ae09db538f19d762a696bd56e1c352bae554b08609d021b83df0e6",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "cad/WF300-DH_P1D1_open.step",
+      "baseline_path": "cad/WF300-DH_P1D1_open.step",
+      "baseline_sha256": "134ae35ede90041716560f5d1b61ffd92973fe325d39cc5ddd12bbd57653e47d",
+      "sha256": "134ae35ede90041716560f5d1b61ffd92973fe325d39cc5ddd12bbd57653e47d",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "parts_step/WF300_cap_P1D1.step",
+      "baseline_path": "parts_step/WF300_cap_P1D1.step",
+      "baseline_sha256": "c768151461cbd550a92d6292edd667259ac47dab0791df6cab6df7f3c5561bee",
+      "sha256": "c768151461cbd550a92d6292edd667259ac47dab0791df6cab6df7f3c5561bee",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "parts_step/WF300_left_P1D1.step",
+      "baseline_path": "parts_step/WF300_left_P1D1.step",
+      "baseline_sha256": "2e9d5ab0cf5c37cf34157574d7ca1d89a83a0ba6888fc075adf6ccaf99290713",
+      "sha256": "2e9d5ab0cf5c37cf34157574d7ca1d89a83a0ba6888fc075adf6ccaf99290713",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "parts_step/WF300_pad_P1D1.step",
+      "baseline_path": "parts_step/WF300_pad_P1D1.step",
+      "baseline_sha256": "527e0c81b2e62c37732dc5fe470513197d3bdadfdf056de900acd619bf810cc1",
+      "sha256": "527e0c81b2e62c37732dc5fe470513197d3bdadfdf056de900acd619bf810cc1",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "parts_step/WF300_right_P1D1.step",
+      "baseline_path": "parts_step/WF300_right_P1D1.step",
+      "baseline_sha256": "762d4205468cd76ec7c8f2d0d2cbcb0e3b38e3d4c3165f3d841367d47fe67a63",
+      "sha256": "762d4205468cd76ec7c8f2d0d2cbcb0e3b38e3d4c3165f3d841367d47fe67a63",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "parts_step/WF300_rod_P1D1.step",
+      "baseline_path": "parts_step/WF300_rod_P1D1.step",
+      "baseline_sha256": "71a5b720614c4d3ec0df1438585a99e21a809f11646686fe56a758d9ca958aac",
+      "sha256": "71a5b720614c4d3ec0df1438585a99e21a809f11646686fe56a758d9ca958aac",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "manufacturing/16个紧固连接与扭矩记录.csv",
+      "baseline_path": "manufacturing/16个紧固连接与扭矩记录.csv",
+      "baseline_sha256": "aa1af29256c380f98336906984414fd5bb3c51979b7f1ddfc39df9b11185b129",
+      "sha256": "aa1af29256c380f98336906984414fd5bb3c51979b7f1ddfc39df9b11185b129",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "manufacturing/BOM_P1D1.csv",
+      "baseline_path": "manufacturing/BOM_P1D1.csv",
+      "baseline_sha256": "ee5e9280f816b082143e8b825af86c550597aadd9da0e830a05da4ef42122b66",
+      "sha256": "ee5e9280f816b082143e8b825af86c550597aadd9da0e830a05da4ef42122b66",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "manufacturing/BOM_P1D1.json",
+      "baseline_path": "manufacturing/BOM_P1D1.json",
+      "baseline_sha256": "6882a01c8ee8c896fcf10b055bf87975de25c51ca33fa0af9604f99c46ae339d",
+      "sha256": "6882a01c8ee8c896fcf10b055bf87975de25c51ca33fa0af9604f99c46ae339d",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "manufacturing/assembly_joint_manifest.json",
+      "baseline_path": "manufacturing/assembly_joint_manifest.json",
+      "baseline_sha256": "24910816edb07aed23263d7b24222718695865a5aa907917386f8e9f42caad0a",
+      "sha256": "24910816edb07aed23263d7b24222718695865a5aa907917386f8e9f42caad0a",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "manufacturing/sources.json",
+      "baseline_path": "manufacturing/sources.json",
+      "baseline_sha256": "c69ea9b067d35e0aaa5b595c628ac47168100606cd655cf95c2c36d2d77bd827",
+      "sha256": "c69ea9b067d35e0aaa5b595c628ac47168100606cd655cf95c2c36d2d77bd827",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "manufacturing/首件验收记录.csv",
+      "baseline_path": "manufacturing/首件验收记录.csv",
+      "baseline_sha256": "2588add2f6eaa6f18a758902506601e2fee6742249942a767ca709e45fb008a4",
+      "sha256": "2588add2f6eaa6f18a758902506601e2fee6742249942a767ca709e45fb008a4",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "drawings/01_WF300-P1-000.dxf",
+      "baseline_path": "drawings/01_WF300-P1-000.dxf",
+      "baseline_sha256": "38b98a7c7ec8a3009488d967a3b8c61d7101cba871f99795f455224f9ef9b937",
+      "sha256": "38b98a7c7ec8a3009488d967a3b8c61d7101cba871f99795f455224f9ef9b937",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "drawings/01_WF300-P1-000.svg",
+      "baseline_path": "drawings/01_WF300-P1-000.svg",
+      "baseline_sha256": "75cffab4a58c3fa654c3e1e7d365906b030412d0c12f45897300aea1b2c97844",
+      "sha256": "75cffab4a58c3fa654c3e1e7d365906b030412d0c12f45897300aea1b2c97844",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "drawings/02_WF300-P1-001.dxf",
+      "baseline_path": "drawings/02_WF300-P1-001.dxf",
+      "baseline_sha256": "bd355ab76e06973846fd5021718e4919b70733c9294671b169db867effb91cb4",
+      "sha256": "bd355ab76e06973846fd5021718e4919b70733c9294671b169db867effb91cb4",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "drawings/02_WF300-P1-001.svg",
+      "baseline_path": "drawings/02_WF300-P1-001.svg",
+      "baseline_sha256": "f4b316a4fdb044f9306c3be71d06f95391fd6bb66a06c0ea65fbdd3be8b63060",
+      "sha256": "f4b316a4fdb044f9306c3be71d06f95391fd6bb66a06c0ea65fbdd3be8b63060",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "drawings/03_WF300-P1-FRAME-L.dxf",
+      "baseline_path": "drawings/03_WF300-P1-FRAME-L.dxf",
+      "baseline_sha256": "a986403719c385e45ce18f38698898001b9a79ff2b7cccc5e75b0d4c170620d1",
+      "sha256": "a986403719c385e45ce18f38698898001b9a79ff2b7cccc5e75b0d4c170620d1",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "drawings/03_WF300-P1-FRAME-L.svg",
+      "baseline_path": "drawings/03_WF300-P1-FRAME-L.svg",
+      "baseline_sha256": "ecdad9ab9a32f1a6ab70c0979bc3fd74386898c04e35f433f65939b1616b9b87",
+      "sha256": "ecdad9ab9a32f1a6ab70c0979bc3fd74386898c04e35f433f65939b1616b9b87",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "drawings/04_WF300-P1-FRAME-R.dxf",
+      "baseline_path": "drawings/04_WF300-P1-FRAME-R.dxf",
+      "baseline_sha256": "ffc9c0a9ac046f02aa70d7e587d2812376ae462593bef34c76286763d3b0625a",
+      "sha256": "ffc9c0a9ac046f02aa70d7e587d2812376ae462593bef34c76286763d3b0625a",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "drawings/04_WF300-P1-FRAME-R.svg",
+      "baseline_path": "drawings/04_WF300-P1-FRAME-R.svg",
+      "baseline_sha256": "9e9381b8266deeb0c0905e7efb1f155daa1dd9058c7099521b6cb6c060ce3528",
+      "sha256": "9e9381b8266deeb0c0905e7efb1f155daa1dd9058c7099521b6cb6c060ce3528",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "drawings/05_WF300-P1-PAD.dxf",
+      "baseline_path": "drawings/05_WF300-P1-PAD.dxf",
+      "baseline_sha256": "ba3eb9388bd14c37b3c6c61bdf4204c5c2831e0d7d7ca4cf14e94c60d7b5cccb",
+      "sha256": "ba3eb9388bd14c37b3c6c61bdf4204c5c2831e0d7d7ca4cf14e94c60d7b5cccb",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "drawings/05_WF300-P1-PAD.svg",
+      "baseline_path": "drawings/05_WF300-P1-PAD.svg",
+      "baseline_sha256": "a492a29791b1ef0c1d6a2f1d26872ba52a18b9d0be915f7c23adf31d13e29cd2",
+      "sha256": "a492a29791b1ef0c1d6a2f1d26872ba52a18b9d0be915f7c23adf31d13e29cd2",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "drawings/06_WF300-P1-ROD.dxf",
+      "baseline_path": "drawings/06_WF300-P1-ROD.dxf",
+      "baseline_sha256": "09ecf910f8064c4d31b6d3761dd137b08d1dcdbaf28ff3f5382e7c6e5a249bb2",
+      "sha256": "09ecf910f8064c4d31b6d3761dd137b08d1dcdbaf28ff3f5382e7c6e5a249bb2",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "drawings/06_WF300-P1-ROD.svg",
+      "baseline_path": "drawings/06_WF300-P1-ROD.svg",
+      "baseline_sha256": "1fdeca36522ea6aa85b85711e05feb0c5fdf456b3f08f864818293a6ed95ce0e",
+      "sha256": "1fdeca36522ea6aa85b85711e05feb0c5fdf456b3f08f864818293a6ed95ce0e",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "drawings/07_WF300-P1-CAP.dxf",
+      "baseline_path": "drawings/07_WF300-P1-CAP.dxf",
+      "baseline_sha256": "9164182a166824cc30304530e0c34e19be91f9f0739ce1bb55770fd07a16ccc5",
+      "sha256": "9164182a166824cc30304530e0c34e19be91f9f0739ce1bb55770fd07a16ccc5",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "drawings/07_WF300-P1-CAP.svg",
+      "baseline_path": "drawings/07_WF300-P1-CAP.svg",
+      "baseline_sha256": "9f5a9ab49aa4904c8217d5f63aba9684df3d3eba8c60b1ba430cf8bfe5ac8e0b",
+      "sha256": "9f5a9ab49aa4904c8217d5f63aba9684df3d3eba8c60b1ba430cf8bfe5ac8e0b",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "drawings/08_WF300-P1-PURCHASE.dxf",
+      "baseline_path": "drawings/08_WF300-P1-PURCHASE.dxf",
+      "baseline_sha256": "ec17661dcd5cf040cd34763927abe6ab75185f5c925cbfc3a8763822b0c83198",
+      "sha256": "ec17661dcd5cf040cd34763927abe6ab75185f5c925cbfc3a8763822b0c83198",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "drawings/08_WF300-P1-PURCHASE.svg",
+      "baseline_path": "drawings/08_WF300-P1-PURCHASE.svg",
+      "baseline_sha256": "5f46d1b2cc572d883ddb36d83a93dd916cd7faeacfeeb504b3af0b05a29ce2f6",
+      "sha256": "5f46d1b2cc572d883ddb36d83a93dd916cd7faeacfeeb504b3af0b05a29ce2f6",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "drawings/09_WF300-P1-ESD.dxf",
+      "baseline_path": "drawings/09_WF300-P1-ESD.dxf",
+      "baseline_sha256": "65bca15d9d82e6cddd92a9ce6c6572526c6ef2025d14c37bb9323e7aef0bbe26",
+      "sha256": "65bca15d9d82e6cddd92a9ce6c6572526c6ef2025d14c37bb9323e7aef0bbe26",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "drawings/09_WF300-P1-ESD.svg",
+      "baseline_path": "drawings/09_WF300-P1-ESD.svg",
+      "baseline_sha256": "8c11590251eb38d0cecf9bf1ff7e5fbaabfb24538e031670d95173bd21e254a8",
+      "sha256": "8c11590251eb38d0cecf9bf1ff7e5fbaabfb24538e031670d95173bd21e254a8",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "drawings/10_WF300-P1-JOINTS.dxf",
+      "baseline_path": "drawings/10_WF300-P1-JOINTS.dxf",
+      "baseline_sha256": "5a704e4a0e1f68d5e70feee9814fbc9af227e7b4ce3f70f7909602a9c95a6d49",
+      "sha256": "5a704e4a0e1f68d5e70feee9814fbc9af227e7b4ce3f70f7909602a9c95a6d49",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "drawings/10_WF300-P1-JOINTS.svg",
+      "baseline_path": "drawings/10_WF300-P1-JOINTS.svg",
+      "baseline_sha256": "aa1de59c2cfa27d1cbfd8763cea0241d79e2741c575095b108a9b373e9786e00",
+      "sha256": "aa1de59c2cfa27d1cbfd8763cea0241d79e2741c575095b108a9b373e9786e00",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "drawings/11_WF300-P1-TOL.dxf",
+      "baseline_path": "drawings/11_WF300-P1-TOL.dxf",
+      "baseline_sha256": "5dbb1be1584ea0421397cad8bb5f02b5ab1786eafa911d4770ac9fb551972994",
+      "sha256": "5dbb1be1584ea0421397cad8bb5f02b5ab1786eafa911d4770ac9fb551972994",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "drawings/11_WF300-P1-TOL.svg",
+      "baseline_path": "drawings/11_WF300-P1-TOL.svg",
+      "baseline_sha256": "4b6b7416a8acfa402aefbe201db3fe84d87d7f41ba871795b401151074c1c590",
+      "sha256": "4b6b7416a8acfa402aefbe201db3fe84d87d7f41ba871795b401151074c1c590",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "drawings/12_WF300-P1-BOM.dxf",
+      "baseline_path": "drawings/12_WF300-P1-BOM.dxf",
+      "baseline_sha256": "4efbff08425694fd7ce83864c3f38feec9bf5abcc84f39fa1eb3fdcd3806dcae",
+      "sha256": "4efbff08425694fd7ce83864c3f38feec9bf5abcc84f39fa1eb3fdcd3806dcae",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "drawings/12_WF300-P1-BOM.svg",
+      "baseline_path": "drawings/12_WF300-P1-BOM.svg",
+      "baseline_sha256": "aec664208587acf59be2fc0b06a4f5062992d59b15199eb76b543f3afbec5f22",
+      "sha256": "aec664208587acf59be2fc0b06a4f5062992d59b15199eb76b543f3afbec5f22",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "drawings/WF300-DH_P1D1_drawings.pdf",
+      "baseline_path": "WF300-DH_二维工程图_P1D1_工程试制.pdf",
+      "baseline_sha256": "c68e9f537e0457a55dfebe59181b1695f9540e8ae6e05cf7083075d117dbddbd",
+      "sha256": "c68e9f537e0457a55dfebe59181b1695f9540e8ae6e05cf7083075d117dbddbd",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "docs/WF300-DH_P1D1_assembly_manual.pdf",
+      "baseline_path": "WF300-DH_P1D1_生产与装配说明.pdf",
+      "baseline_sha256": "c7c8b2b1262f2ef4c4b67e054cae0226f8ed492cde37af446acc0fe4e444d1ad",
+      "sha256": "c7c8b2b1262f2ef4c4b67e054cae0226f8ed492cde37af446acc0fe4e444d1ad",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "docs/WF300-DH_P1D1_assembly_manual_zh.md",
+      "baseline_path": "WF300-DH_P1D1_生产与装配说明.md",
+      "baseline_sha256": "36cef9c092a927825d33e0ec2cd244b7f024c621e48551ad69ccc8f94525b564",
+      "sha256": "36cef9c092a927825d33e0ec2cd244b7f024c621e48551ad69ccc8f94525b564",
+      "transformation": "byte-identical"
+    },
+    {
+      "path": "assets/assembly-isometric.svg",
+      "baseline_path": "drawings/assembly_iso_geometry.svg",
+      "baseline_sha256": "e907dbc429f989e9fdf660e946fc04db07b72a90549da12f7f7e3ccbc083876a",
+      "sha256": "e907dbc429f989e9fdf660e946fc04db07b72a90549da12f7f7e3ccbc083876a",
+      "transformation": "byte-identical"
+    }
+  ]
+}
